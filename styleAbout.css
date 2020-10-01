@@ -1,0 +1,53 @@
+
+#aboutDiv {
+    margin: 25;
+}
+
+#instructorsDiv {
+    padding-top: 20;
+}
+
+.instructors> li{
+    display: inline-block;
+    list-style: none;
+}
+
+.instructors1 {
+    width: 250;
+    height: 300;
+    border: 2px solid black;
+    margin: 20 10;
+    padding: 0 5;
+    text-align: center;
+}
+
+.instructors1>h3{
+    font-family: Courier;
+    font-size: 20;
+    text-align: center;
+    font-weight: bold;
+    background-color: #999966;
+    margin: 0 -5;
+    padding: 5 5;
+}
+#solo, #cody, #wick{
+    max-width: 260px; /* width of container */
+    height: 240px; /* height of container */
+    object-fit: cover;
+    position: relative;
+    left: -5;
+}
+
+#bourne{
+    max-width: 260px; /* width of container */
+    height: 204px; /* height of container */
+    object-fit: cover;
+    position: relative;
+    left: -5;
+}
+.instructors1>p{
+    margin: 0;
+    background-color: #999966;
+    margin: 0 -5;
+    padding: 5 5;
+}

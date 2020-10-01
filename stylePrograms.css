@@ -1,0 +1,38 @@
+.program1 {
+    width: 300;
+   height: 300;
+    border: 2px solid black;
+    margin: 20 10;
+    padding: 0 5;
+
+    /* position:relative;
+    float:left;
+    left:-50%; */
+}
+
+/* .programs {
+    position:relative;
+    float:left;
+    left:50%;
+} */
+.programs> li{
+    display: inline-block;
+    list-style: none;
+}
+
+.program1>h1{
+    font-family: Courier;
+    font-size: 26;
+    text-align: center;
+    font-weight: bold;
+    background-color: #999966;
+    margin: 0 -5;
+    padding: 5 5;
+}
+.program1> p {
+    text-align: center;
+}
+/* #middleProgram{
+    position: relative;
+    top: 19;
+} */

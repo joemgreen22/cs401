@@ -1,0 +1,21 @@
+
+
+input {
+    margin: 5 5;
+    height: 40px;
+    font-size:14px;
+    border-radius:0.5em;
+  }
+  
+#name{
+    position: relative;
+    left: 27;
+}
+
+#message{
+    height: 100;
+    width: 300;
+}
+#contactDiv{
+    padding: 20;
+}

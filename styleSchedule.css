@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    text-align: center;
+
+}
+.programName{
+    font-weight: bold;
+}
+#tableDiv{
+    padding: 15;
+    text-align: center;
+}
+th, td{
+    padding: 10;
+}
+.schedule {
+    margin-left:auto; 
+    margin-right:auto;
+}
