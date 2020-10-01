@@ -36,6 +36,7 @@
     object-fit: cover;
     position: relative;
     left: -5;
+    z-index: -2;
 }
 
 #bourne{
@@ -44,6 +45,7 @@
     object-fit: cover;
     position: relative;
     left: -5;
+    z-index: -2;
 }
 .instructors1>p{
     margin: 0;
@@ -51,3 +53,5 @@
     margin: 0 -5;
     padding: 5 5;
 }
+
+C:\wamp64\www\cs401\styleAbout.css
