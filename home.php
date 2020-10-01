@@ -31,7 +31,7 @@
         <hr/>
 
         <div class = "programs">
-            <img class ="programImg" src = "https://lh3.googleusercontent.com/proxy/pHPoO9ZtOaaK9IlmKbQhIgMbkNGbp0r0cHcY9cF6VynZ9jI3qOAkscHK6iiP9WeAO-q21tkBh9nzvaLOqkCYIN_QVNDGVMoputSRMNVCXwMz_NzRO3XBwwsrdg"/>
+            <img class ="programImg" src = "images/programs.jpg"/>
 
             <div class ="programContent"> 
                 <a <?php if($pageName == "about"){echo "class='active';";}?> href="about.php">Our Programs:</a> 
