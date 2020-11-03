@@ -1,5 +1,6 @@
 
 <?php
+require 'vendor/autoload.php';
 $pageName = "login";
 session_start();
 ?>

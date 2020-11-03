@@ -1,4 +1,5 @@
 <?php session_start(); ?>
+<?php require 'vendor/autoload.php'; ?>
 <html>
 	<head>
 		<title>Leeper's shooting Emporium </title>
