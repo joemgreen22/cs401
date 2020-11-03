@@ -50,6 +50,26 @@ body{
     padding-top: 10;
     padding-bottom: 10;
     margin: 0;
+    float: right;
+}
+#login{
+    padding-left: 8;
+    padding-top: 3;
+    text-decoration: none;
+    color: #000000;
+    text-decoration: underline;
+    float: left;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+    text-decoration: underline;
+    font-family: Courier;
+    font-weight: bold;
+    font-size: large;
+}
+a:hover {
+    color: #606060;
 }
 
 .nav > li {
@@ -75,7 +95,7 @@ body{
     padding-top: 10;
     padding-left: 10;
     background-color: #999966;
-    width: 150;
+    width: 140;
     float: left;
 }
 .logo > a > img{
@@ -104,6 +124,8 @@ body{
     top: 0;
     height: 225;
 }
+
+
 
 /* header.php above */
 

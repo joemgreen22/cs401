@@ -2,6 +2,10 @@
 <?php require_once "header.php"; ?>
 <?php
 session_start();
+if (isset($_SESSION['authenticated']) && !$_SESSION['authenticated'] || !isset($_SESSION['authenticated'])) {
+  header("Location: http://cs401/login.php");
+}
+
 require_once 'table.php';
 
 ?>
