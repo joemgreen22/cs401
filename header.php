@@ -1,5 +1,5 @@
 <?php session_start(); ?>
-<?php require("path/to/sendgrid-php/sendgrid-php.php"); ?>
+
 <html>
 	<head>
 		<title>Leeper's shooting Emporium </title>

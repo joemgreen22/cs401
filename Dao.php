@@ -1,5 +1,6 @@
 <?php
 require_once 'KLogger.php';
+require 'vendor/autoload.php';
 class Dao{
 
     private $host = "localhost";
