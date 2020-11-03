@@ -1,0 +1,39 @@
+body{
+    background-color:  rgb(255, 248, 211);
+}
+
+.logHead{
+    background-color: #999966;
+    border: solid black 2px;
+    border-radius:0.5em;
+    width: auto;
+    padding: 10;
+    margin-bottom: 30;
+    font-size: 25;
+}
+.loginClass{
+    background-color: #999966;
+    border: solid black 2px;
+    border-radius:0.5em;
+    float: left;
+    width: 45%;
+}
+
+.create{
+    background-color: #999966;
+    border: solid black 2px;
+    border-radius:0.5em;
+    float: right;
+    width: 45%;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+    text-decoration: underline;
+
+}
+div{
+
+    padding: 5;
+}

@@ -61,3 +61,152 @@
 1604379231 - DEBUG --> getting a connection 
 1604379278 - DEBUG --> getting a connection 
 1604379339 - DEBUG --> getting a connection 
+1604399065 - DEBUG --> getting a connection 
+1604399065 - INFO  --> login [] 
+1604399084 - DEBUG --> getting a connection 
+1604399084 - INFO  --> login [joe@gmail.com] 
+1604399106 - DEBUG --> getting a connection 
+1604399141 - DEBUG --> getting a connection 
+1604399141 - INFO  --> login [joe@gmail.com] 
+1604399256 - DEBUG --> getting a connection 
+1604399256 - INFO  --> login [joe@gmail.com] 
+1604399263 - DEBUG --> getting a connection 
+1604399263 - INFO  --> login [joemgreen22@gmail.com] 
+1604399314 - DEBUG --> getting a connection 
+1604399314 - INFO  --> login [joe@gmail.com] 
+1604399342 - DEBUG --> getting a connection 
+1604399342 - INFO  --> login [joe@gmail.com] 
+1604399350 - DEBUG --> getting a connection 
+1604400812 - DEBUG --> getting a connection 
+1604400812 - INFO  --> login [joe@gmail.com] 
+1604400847 - DEBUG --> getting a connection 
+1604400847 - INFO  --> login [joe@gmail.com] 
+1604400867 - DEBUG --> getting a connection 
+1604400867 - INFO  --> login [joe@gmail] 
+1604400922 - DEBUG --> getting a connection 
+1604400922 - INFO  --> login [joe@gmail] 
+1604400922 - DEBUG --> getting a connection 
+1604400922 - INFO  --> login [joe@gmail] 
+1604402539 - DEBUG --> getting a connection 
+1604402563 - DEBUG --> getting a connection 
+1604402711 - DEBUG --> getting a connection 
+1604403464 - DEBUG --> getting a connection 
+1604403464 - INFO  --> login [joe] 
+1604403556 - DEBUG --> getting a connection 
+1604403556 - INFO  --> login [joe] 
+1604403577 - DEBUG --> getting a connection 
+1604403577 - INFO  --> login [joe] 
+1604403602 - DEBUG --> getting a connection 
+1604403602 - INFO  --> login [joe] 
+1604403684 - DEBUG --> getting a connection 
+1604403684 - INFO  --> login [joe] 
+1604403688 - DEBUG --> getting a connection 
+1604403688 - INFO  --> login [joe] 
+1604403695 - DEBUG --> getting a connection 
+1604403695 - INFO  --> login [joe] 
+1604403725 - DEBUG --> getting a connection 
+1604403725 - INFO  --> login [joe@gmail] 
+1604403859 - DEBUG --> getting a connection 
+1604403859 - INFO  --> login [joe@gmail] 
+1604403908 - DEBUG --> getting a connection 
+1604403908 - INFO  --> login [joe@gmail] 
+1604403989 - DEBUG --> getting a connection 
+1604403989 - INFO  --> login [joe@gmail] 
+1604404326 - DEBUG --> getting a connection 
+1604404326 - INFO  --> login [joe@gmail] 
+1604404354 - DEBUG --> getting a connection 
+1604404354 - INFO  --> login [joe@gmail] 
+1604404399 - DEBUG --> getting a connection 
+1604404399 - INFO  --> login [joe@gmail] 
+1604404402 - DEBUG --> getting a connection 
+1604404402 - INFO  --> login [joe@gmail] 
+1604404406 - DEBUG --> getting a connection 
+1604404406 - INFO  --> login [joe@gmail] 
+1604404418 - DEBUG --> getting a connection 
+1604404418 - INFO  --> login [joe@gmail] 
+1604404485 - DEBUG --> getting a connection 
+1604404485 - INFO  --> login [joe@gmail] 
+1604404595 - DEBUG --> getting a connection 
+1604404595 - INFO  --> login [joe@gmail] 
+1604404835 - DEBUG --> getting a connection 
+1604404835 - INFO  --> login [joe@gmail] 
+1604405298 - DEBUG --> getting a connection 
+1604405298 - INFO  --> login [joe@gmail] 
+1604405339 - DEBUG --> getting a connection 
+1604405339 - INFO  --> login [joe@gmail] 
+1604405359 - DEBUG --> getting a connection 
+1604405359 - INFO  --> login [joe@gmail] 
+1604405388 - DEBUG --> getting a connection 
+1604405388 - INFO  --> login [joe@gmail] 
+1604405408 - DEBUG --> getting a connection 
+1604405408 - INFO  --> login [joe@gmail] 
+1604405497 - DEBUG --> getting a connection 
+1604405497 - INFO  --> login [joe@gmail] 
+1604405586 - DEBUG --> getting a connection 
+1604405586 - INFO  --> login [joe@gmail] 
+1604405602 - DEBUG --> getting a connection 
+1604405602 - INFO  --> login [joe@gmail] 
+1604405671 - DEBUG --> getting a connection 
+1604405671 - INFO  --> login [joe@gmail] 
+1604405914 - DEBUG --> getting a connection 
+1604405914 - INFO  --> login [joe@gmail] 
+1604405986 - DEBUG --> getting a connection 
+1604405986 - INFO  --> login [joe@gmail] 
+1604405989 - DEBUG --> getting a connection 
+1604405989 - INFO  --> login [joe@gmail] 
+1604406529 - DEBUG --> getting a connection 
+1604406577 - DEBUG --> getting a connection 
+1604406586 - DEBUG --> getting a connection 
+1604406952 - DEBUG --> getting a connection 
+1604407199 - DEBUG --> getting a connection 
+1604407229 - DEBUG --> getting a connection 
+1604407231 - DEBUG --> getting a connection 
+1604407369 - DEBUG --> getting a connection 
+1604407679 - DEBUG --> getting a connection 
+1604407690 - DEBUG --> getting a connection 
+1604407719 - DEBUG --> getting a connection 
+1604407722 - DEBUG --> getting a connection 
+1604407754 - DEBUG --> getting a connection 
+1604407774 - DEBUG --> getting a connection 
+1604407789 - DEBUG --> getting a connection 
+1604409448 - DEBUG --> getting a connection 
+1604409493 - DEBUG --> getting a connection 
+1604409522 - DEBUG --> getting a connection 
+1604409554 - DEBUG --> getting a connection 
+1604409580 - DEBUG --> getting a connection 
+1604409592 - DEBUG --> getting a connection 
+1604409623 - DEBUG --> getting a connection 
+1604409700 - DEBUG --> getting a connection 
+1604409721 - DEBUG --> getting a connection 
+1604409748 - DEBUG --> getting a connection 
+1604409759 - DEBUG --> getting a connection 
+1604409814 - DEBUG --> getting a connection 
+1604409947 - DEBUG --> getting a connection 
+1604410039 - DEBUG --> getting a connection 
+1604410053 - DEBUG --> getting a connection 
+1604410151 - DEBUG --> getting a connection 
+1604410211 - DEBUG --> getting a connection 
+1604410244 - DEBUG --> getting a connection 
+1604410263 - DEBUG --> getting a connection 
+1604410302 - DEBUG --> getting a connection 
+1604410335 - DEBUG --> getting a connection 
+1604410399 - DEBUG --> getting a connection 
+1604410419 - DEBUG --> getting a connection 
+1604410440 - DEBUG --> getting a connection 
+1604410541 - DEBUG --> getting a connection 
+1604410708 - DEBUG --> getting a connection 
+1604410711 - DEBUG --> getting a connection 
+1604410880 - DEBUG --> getting a connection 
+1604410926 - DEBUG --> getting a connection 
+1604410959 - DEBUG --> getting a connection 
+1604410979 - DEBUG --> getting a connection 
+1604410988 - DEBUG --> getting a connection 
+1604411042 - DEBUG --> getting a connection 
+1604411052 - DEBUG --> getting a connection 
+1604411080 - DEBUG --> getting a connection 
+1604411181 - DEBUG --> getting a connection 
+1604411215 - DEBUG --> getting a connection 
+1604411237 - DEBUG --> getting a connection 
+1604411325 - DEBUG --> getting a connection 
+1604413125 - DEBUG --> getting a connection 
+1604413183 - DEBUG --> getting a connection 

@@ -48,6 +48,28 @@ class Dao{
         $q->bindParam(":commentID", $id);
         $q->execute();
       }
+      public function userExists ($email, $password) {
+        $conn = $this->getConnection();
+        $query_user = $conn->prepare("SELECT * FROM user WHERE email = {$email};");
+        $query_user->bindParam(":credential", $credential);
+        $query_user->execute();
+        return $query_user->fetchAll(PDO::FETCH_ASSOC);
+        // echo print_r($result); // debug 
+        // return $result;
+      }
+
+
+
+      public function createUser ($nameFirst, $nameLast, $email, $password){
+        $conn = $this->getConnection();
+        $createQuery = "insert into user (nameFirst, nameLast, email, password, access) values(:nameFirst, :nameLast, :email, :password, 0)";
+        $q = $conn->prepare($createQuery);
+        $q->bindParam(":nameFirst", $nameFirst);
+        $q->bindParam(":nameLast", $nameLast);
+        $q->bindParam(":email", $email);
+        $q->bindParam(":password", $password);
+        $q->execute();
+      }
 }
 
 

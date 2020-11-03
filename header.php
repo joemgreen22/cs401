@@ -1,4 +1,4 @@
-
+<?php session_start(); ?>
 <html>
 	<head>
 		<title>Leeper's shooting Emporium </title>
