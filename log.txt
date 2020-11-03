@@ -1,0 +1,63 @@
+1604376504 - DEBUG --> getting a connection 
+1604376545 - DEBUG --> getting a connection 
+1604376545 - DEBUG --> getting a connection 
+1604376559 - DEBUG --> getting a connection 
+1604376642 - DEBUG --> getting a connection 
+1604376645 - INFO  --> deleting a comment [6] 
+1604376645 - DEBUG --> getting a connection 
+1604376649 - INFO  --> adding a comment [a comment] 
+1604376649 - DEBUG --> getting a connection 
+1604377995 - DEBUG --> getting a connection 
+1604378049 - DEBUG --> getting a connection 
+1604378067 - DEBUG --> getting a connection 
+1604378130 - INFO  --> User input too long [asfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasdfasdfasgghgggggg] 
+1604378133 - DEBUG --> getting a connection 
+1604378139 - INFO  --> User input too long [asfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasdfasdfasgghgggggg] 
+1604378149 - DEBUG --> getting a connection 
+1604378159 - INFO  --> User input too long [asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasdfasdfasgghgggggg] 
+1604378200 - DEBUG --> getting a connection 
+1604378203 - INFO  --> User input too long [asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasdfasdfasgghgggggg] 
+1604378203 - DEBUG --> getting a connection 
+1604378207 - INFO  --> adding a comment [a new comment] 
+1604378207 - DEBUG --> getting a connection 
+1604378207 - DEBUG --> getting a connection 
+1604378209 - DEBUG --> getting a connection 
+1604378209 - INFO  --> deleting a comment [7] 
+1604378209 - DEBUG --> getting a connection 
+1604378213 - INFO  --> User input too long [asfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasd] 
+1604378213 - DEBUG --> getting a connection 
+1604378480 - DEBUG --> getting a connection 
+1604378512 - DEBUG --> getting a connection 
+1604378537 - DEBUG --> getting a connection 
+1604378550 - DEBUG --> getting a connection 
+1604378566 - DEBUG --> getting a connection 
+1604378580 - DEBUG --> getting a connection 
+1604378597 - INFO  --> adding a comment [this comment] 
+1604378597 - DEBUG --> getting a connection 
+1604378597 - DEBUG --> getting a connection 
+1604378669 - DEBUG --> getting a connection 
+1604378676 - DEBUG --> getting a connection 
+1604378684 - DEBUG --> getting a connection 
+1604378690 - DEBUG --> getting a connection 
+1604378834 - DEBUG --> getting a connection 
+1604378840 - DEBUG --> getting a connection 
+1604378846 - DEBUG --> getting a connection 
+1604378896 - DEBUG --> getting a connection 
+1604379014 - DEBUG --> getting a connection 
+1604379025 - DEBUG --> getting a connection 
+1604379111 - INFO  --> adding a comment [a longer review that will go over the edge and I dont know what will happen. we will see] 
+1604379111 - DEBUG --> getting a connection 
+1604379111 - DEBUG --> getting a connection 
+1604379119 - DEBUG --> getting a connection 
+1604379119 - INFO  --> deleting a comment [10] 
+1604379119 - DEBUG --> getting a connection 
+1604379132 - INFO  --> adding a comment [a longer review that will go over the edge and I dont know what will happen. we will see. but it still needs to be longer] 
+1604379132 - DEBUG --> getting a connection 
+1604379132 - DEBUG --> getting a connection 
+1604379148 - DEBUG --> getting a connection 
+1604379195 - DEBUG --> getting a connection 
+1604379195 - DEBUG --> getting a connection 
+1604379202 - DEBUG --> getting a connection 
+1604379231 - DEBUG --> getting a connection 
+1604379278 - DEBUG --> getting a connection 
+1604379339 - DEBUG --> getting a connection 

@@ -37,7 +37,7 @@
                 <li> <a <?php if($pageName == "schedule"){echo "class='active';";}?> href="schedule.php">Schedule</a></li>
                 <li> <a <?php if($pageName == "store"){echo "class='active';";}?> href="store.php">Store</a></li>
                 <li> <a <?php if($pageName == "about"){echo "class='active';";}?> href="about.php">About</a></li>
-                <li> <a <?php if($pageName == "contact"){echo "class='active';";}?> href="contact.php">Contact</a></li>
+                <li> <a <?php if($pageName == "contact"){echo "class='active';";}?> href="contact.php">Reviews</a></li>
                     
             </ul>
         </div>

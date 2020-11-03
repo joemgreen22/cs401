@@ -10,7 +10,7 @@
     </head>
     <body> 
         <div class = "about">
-            <img class ="aboutImg" src = "https://scontent.fboi1-1.fna.fbcdn.net/v/t1.0-9/71402160_10157437002464705_3637893688337629184_o.jpg?_nc_cat=104&_nc_sid=cdbe9c&_nc_ohc=WQbbuoDeaqMAX-F8pnq&_nc_ht=scontent.fboi1-1.fna&oh=dcd637ac59443a4bcf91db132b2e0ed7&oe=5F9AFC9D"/>
+            <img class ="aboutImg" src = "https://scontent.fboi1-1.fna.fbcdn.net/v/t1.0-9/71402160_10157437002464705_3637893688337629184_o.jpg?_nc_cat=104&ccb=2&_nc_sid=cdbe9c&_nc_ohc=kAp-pHbUmh4AX95dbMO&_nc_ht=scontent.fboi1-1.fna&oh=4483a9fcdcb22c0e0bf71b066350ef0a&oe=5FC67E1D"/>
 
             <div class ="aboutContent"> 
                 <a <?php if($pageName == "about"){echo "class='active';";}?> href="about.php">About Us:</a> 
