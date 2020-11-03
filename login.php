@@ -7,7 +7,7 @@ session_start();
   <head>
     <title>Leeper's shooting Emporium </title>
     <link href="images/logo.png" type="image/gif" rel="shortcut icon" />
-    <link rel="stylesheet" type="text/css" href="styleLog.css">
+    <link rel="stylesheet" type="text/css" href="styleLogon.css">
   </head>
   <body>
   <div class ="logHead"> Please either Login or creare an account to have full access to our website. 
@@ -19,6 +19,12 @@ session_start();
       <div>Password: <input type="password" name="password"/></div>
       <div><input type="submit" value="Login"></div>
     </form>
+    <?php
+    if (isset($_SESSION['notGood'])) {
+            foreach ($_SESSION['notGood'] as $message) {
+              echo "<span class='notgood'>{$message}</div>";
+            }
+          } ?>
     </div>
 
     <div class ="create">
@@ -30,6 +36,13 @@ session_start();
       <div>Password: <input type="password" name="password"/></div>
       <div><input type="submit" value="Create Account"></div>
     </form>
+
+    <?php
+    if (isset($_SESSION['badUser'])) {
+            foreach ($_SESSION['badUser'] as $message) {
+              echo "<span class='badUser'>{$message}</div>";
+            }
+          } ?>
     </div>
 
   </body>

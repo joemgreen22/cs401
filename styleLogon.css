@@ -17,6 +17,7 @@ body{
     border-radius:0.5em;
     float: left;
     width: 45%;
+    height: 45%;
 }
 
 .create{
@@ -25,6 +26,7 @@ body{
     border-radius:0.5em;
     float: right;
     width: 45%;
+    height: 45%;
 }
 
 a{
@@ -36,4 +38,19 @@ a{
 div{
 
     padding: 5;
+}
+
+
+.notgood{
+    border: 1px solid red;
+    border-radius:0.5em;
+    padding: 5;
+    margin-bottom: 50;
+}
+
+.badUser{
+    border: 1px solid red;
+    border-radius:0.5em;
+    padding: 5;
+    margin-bottom: 50;
 }

@@ -1,9 +1,8 @@
 <?php $pageName = "contact"; ?>
 <?php require_once "header.php"; ?>
 <?php
-session_start();
 if (isset($_SESSION['authenticated']) && !$_SESSION['authenticated'] || !isset($_SESSION['authenticated'])) {
-  header("Location: http://cs401/login.php");
+  header("Location: http://localhost/cs401/login.php");
 }
 
 require_once 'table.php';
@@ -27,7 +26,7 @@ require_once 'table.php';
           <input type="submit" value="Submit">
         </form>
         <?php 
-          if (isset($_SESSION['good'])) {
+          if (isset($_SESSION['good']) || isset($_SESSION['bad'])) {
             foreach ($_SESSION['good'] as $message) {
               echo "<span class='good'>{$message}</div>";
             }

@@ -1,5 +1,4 @@
 <?php
-session_start();
 require_once 'Dao.php';
 
 function renderTable ($fileName, $search = "") {

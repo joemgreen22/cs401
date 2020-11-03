@@ -210,3 +210,33 @@
 1604411325 - DEBUG --> getting a connection 
 1604413125 - DEBUG --> getting a connection 
 1604413183 - DEBUG --> getting a connection 
+1604415142 - DEBUG --> getting a connection 
+1604415191 - DEBUG --> getting a connection 
+1604415303 - DEBUG --> getting a connection 
+1604415367 - DEBUG --> getting a connection 
+1604415592 - DEBUG --> getting a connection 
+1604415877 - DEBUG --> getting a connection 
+1604415883 - DEBUG --> getting a connection 
+1604415893 - DEBUG --> getting a connection 
+1604415932 - DEBUG --> getting a connection 
+1604415942 - DEBUG --> getting a connection 
+1604415947 - DEBUG --> getting a connection 
+1604415947 - INFO  --> deleting a comment [8] 
+1604415948 - DEBUG --> getting a connection 
+1604415953 - INFO  --> adding a comment [a new comment] 
+1604415953 - DEBUG --> getting a connection 
+1604415953 - DEBUG --> getting a connection 
+1604417433 - DEBUG --> getting a connection 
+1604417433 - DEBUG --> getting a connection 
+1604417579 - DEBUG --> getting a connection 
+1604417579 - DEBUG --> getting a connection 
+1604420327 - DEBUG --> getting a connection 
+1604420327 - DEBUG --> getting a connection 
+1604420333 - DEBUG --> getting a connection 
+1604420419 - DEBUG --> getting a connection 
+1604420458 - DEBUG --> getting a connection 
+1604420460 - DEBUG --> getting a connection 
+1604420463 - DEBUG --> getting a connection 
+1604420568 - DEBUG --> getting a connection 
+1604421551 - DEBUG --> getting a connection 
+1604421556 - DEBUG --> getting a connection 
