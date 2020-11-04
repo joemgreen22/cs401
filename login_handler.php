@@ -13,6 +13,7 @@ if (count($results) > 0){
     $_SESSION['authenticated'] = true;
     echo "true  ";
     header("Location: http://localhost/cs401/home.php");
+    exit();
 }
 else {
     $_SESSION['authenticated'] = false;

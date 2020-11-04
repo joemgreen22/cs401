@@ -35,4 +35,5 @@ if(count($results)<= 0){
     $dao->createUser($_POST['nameFirst'], $_POST['nameLast'], $_POST['email'], $_POST['password']);
     $_SESSION['authenticated'] = true;
     header("Location: http://localhost/cs401/home.php");
+    exit();
 }

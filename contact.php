@@ -2,7 +2,13 @@
 <?php require_once "header.php"; ?>
 <?php
 if (isset($_SESSION['authenticated']) && !$_SESSION['authenticated'] || !isset($_SESSION['authenticated'])) {
-  header("Location: http://login.php");
+
+  $host  = $_SERVER['HTTP_HOST'];
+  $uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
+  $extra = 'login.php';
+  header("Location: http://$host$uri/$extra");
+  // header("Location: http://login.php");
+  exit();
 }
 
 require_once 'table.php';
