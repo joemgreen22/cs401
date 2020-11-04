@@ -5,7 +5,7 @@ $host  = $_SERVER['HTTP_HOST'];
 $uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
 require_once 'Dao.php';
 
-echo 'create handler' . '\n';
+echo 'create handler';
 //valid email
 $pattern = '^[a-z|A-Z|0-9]+@[a-z|A-Z|0-9|.]+\.[com|org|net|edu]{3}^';
 preg_match($pattern, $_POST['email'], $matches) ;
@@ -21,6 +21,7 @@ if($matches==null){
 }
 
 //valid name
+echo 'invalid name1';
 if(strlen($_POST['nameFirst']) <=0 || strlen($_POST['nameLast']) <=0){
     echo 'invalid name' . '\n';
     $_SESSION['badUser'][] = "This is not a valid name";
@@ -32,6 +33,7 @@ if(strlen($_POST['nameFirst']) <=0 || strlen($_POST['nameLast']) <=0){
 }
 
 // email not in use
+echo 'invalid emial2.1';
 $dao = new Dao();
 $results = $dao->userExists($_POST['email'], $_POST['password']);
 if(count($results)> 0){
