@@ -5,6 +5,8 @@ require_once 'KLogger.php';
 $logger = new KLogger ("log.txt" , KLogger::DEBUG);
 $_SESSION['bad'] = array();
 $_SESSION['good'] = array();
+$host  = $_SERVER['HTTP_HOST'];
+$uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
 
 //validation
 if (strlen($_POST['comment']) > 256) {
@@ -17,7 +19,9 @@ if (strlen($_POST['comment']) > 256) {
   }
 
   if (count($_SESSION['bad']) > 0) {
-    header("Location: http://cs401/contact.php");
+    $extra = 'contact.php';
+    header("Location: http://$host$uri/$extra");
+    // header("Location: http://cs401/contact.php");
     exit();
   }
 
@@ -30,6 +34,9 @@ $_SESSION['good'][] = "Your review has sucessfully been posted";
 
 
 // redirect back 
-header("Location: http://cs401/contact.php");
+$extra = 'contact.php';
+header("Location: http://$host$uri/$extra");
+// header("Location: http://cs401/contact.php");
+
 exit();
 
