@@ -37,6 +37,7 @@ echo 'invalid emial2.1';
 $dao = new Dao();
 echo '  moving along  ';
 $results = $dao->userExists($_POST['email'], $_POST['password']);
+echo '  moving along...  ';
 if(count($results)> 0){
     echo 'invalid emial2' . '\n';
     $_SESSION['badUser'][] = "This email is already in use";
