@@ -2,7 +2,7 @@
 <?php require_once "header.php"; ?>
 <?php
 if (isset($_SESSION['authenticated']) && !$_SESSION['authenticated'] || !isset($_SESSION['authenticated'])) {
-  header("Location: http://cs401/login.php");
+  header("Location: http://login.php");
 }
 
 require_once 'table.php';
