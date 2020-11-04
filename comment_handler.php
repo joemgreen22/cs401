@@ -17,7 +17,7 @@ if (strlen($_POST['comment']) > 256) {
   }
 
   if (count($_SESSION['bad']) > 0) {
-    header("Location: http://localhost/cs401/contact.php");
+    header("Location: http://cs401/contact.php");
     exit();
   }
 
@@ -30,6 +30,6 @@ $_SESSION['good'][] = "Your review has sucessfully been posted";
 
 
 // redirect back 
-header("Location: http://localhost/cs401/contact.php");
+header("Location: http://cs401/contact.php");
 exit();
 

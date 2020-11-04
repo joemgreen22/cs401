@@ -3,10 +3,18 @@ require_once 'KLogger.php';
 require 'vendor/autoload.php';
 class Dao{
 
+    // huroku
     private $host = "localhost";
     private $db = "cs401";
     private $user = "joe";
     private $pass = "password";
+
+    // local host 
+    // private $host = "localhost";
+    // private $db = "cs401";
+    // private $user = "joe";
+    // private $pass = "password";
+
     private $logger;
 
 

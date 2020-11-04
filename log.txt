@@ -246,3 +246,7 @@
 1604439291 - DEBUG --> getting a connection 
 1604439291 - INFO  --> deleting a comment [12] 
 1604439291 - DEBUG --> getting a connection 
+1604439465 - DEBUG --> getting a connection 
+1604439468 - DEBUG --> getting a connection 
+1604476072 - DEBUG --> getting a connection 
+1604476075 - DEBUG --> getting a connection 
