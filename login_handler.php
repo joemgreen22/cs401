@@ -9,7 +9,7 @@ require_once 'Dao.php';
 $_SESSION['notGood'] = array();
 
 $dao = new Dao();
-// $results = $dao->userExists($_POST['email'], $_POST['password']);
+$results = $dao->userExists($_POST['email'], $_POST['password']);
 
 
 if (count($results) > 0){
