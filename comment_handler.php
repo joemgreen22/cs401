@@ -19,6 +19,7 @@ if (strlen($_POST['comment']) > 256) {
   }
 
   if (count($_SESSION['bad']) > 0) {
+    $_SESSION['form'] = $_POST;
     $extra = 'contact.php';
     header("Location: http://$host$uri/$extra");
     // header("Location: http://cs401/contact.php");

@@ -12,6 +12,10 @@ if (isset($_SESSION['authenticated']) && !$_SESSION['authenticated'] || !isset($
 }
 
 require_once 'table.php';
+if (isset($_SESSION['form'])){
+  $nameTmp = $_SESSION['form']['name'];
+  $commentTmp = $_SESSION['form']['comment'];
+}
 
 ?>
 
@@ -27,8 +31,8 @@ require_once 'table.php';
         <h1>Leave us a review!</h1>
 
         <form method="POST" action="comment_handler.php">
-          <div>Name: <input type="text" name="name" id="name"/></div>
-          <div>Review: <input type="text" name="comment" id="comment"/></div>
+          <div>Name: <input value="<?php echo $nameTmp;?>" type="text" name="name" id="name"/></div>
+          <div>Review: <input value="<?php echo $commentTmp;?>" type="text" name="comment" id="comment"/></div>
           <input type="submit" value="Submit">
         </form>
         <?php 

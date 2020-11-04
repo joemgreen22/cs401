@@ -3,6 +3,17 @@
 
 $pageName = "login";
 session_start();
+if (isset($_SESSION['formLogin'])){
+  $emailTmp = $_SESSION['formLogin']['email'];
+  $passTmp = $_SESSION['formLogin']['password'];
+}
+if (isset($_SESSION['formCreate'])){
+  $tmpFirst = $_SESSION['formCreate']['nameFirst'];
+  $tmpLast = $_SESSION['formCreate']['nameLast'];
+  $tmpEmail = $_SESSION['formCreate']['email'];
+  $tmpPass = $_SESSION['formCreate']['password'];
+}
+
 ?>
 <html>
   <head>
@@ -16,8 +27,8 @@ session_start();
     <div class ="loginClass">
     <h1>Login</h1>
     <form method="POST" action="login_handler.php">
-      <div>Email: <input type="text" name="email"/></div>
-      <div>Password: <input type="password" name="password"/></div>
+      <div>Email: <input value="<?php echo $emailTmp;?>" type="text" name="email"/></div>
+      <div>Password: <input value="<?php echo $passTmp;?>" emailTmptype="password" name="password"/></div>
       <div><input type="submit" value="Login"></div>
     </form>
     <?php
@@ -31,10 +42,10 @@ session_start();
     <div class ="create">
     <h1>Create Account</h1>
     <form method="POST" action="createUser_handler.php">
-      <div>First Name: <input type="text" name="nameFirst"/></div>
-      <div>Last Name: <input type="text" name="nameLast"/></div>
-      <div>Email: <input type="text" name="email"/></div>
-      <div>Password: <input type="password" name="password"/></div>
+      <div>First Name: <input value="<?php echo $tmpFirst;?>" type="text" name="nameFirst"/></div>
+      <div>Last Name: <input value="<?php echo $tmpLast;?>" type="text" name="nameLast"/></div>
+      <div>Email: <input value="<?php echo $tmpEmail;?>" type="text" name="email"/></div>
+      <div>Password: <input value="<?php echo $tmpPass;?>" type="password" name="password"/></div>
       <div><input type="submit" value="Create Account"></div>
     </form>
 

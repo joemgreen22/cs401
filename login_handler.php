@@ -9,7 +9,7 @@ require_once 'Dao.php';
 $_SESSION['notGood'] = array();
 
 $dao = new Dao();
-$results = $dao->userExists($_POST['email'], $_POST['password']);
+// $results = $dao->userExists($_POST['email'], $_POST['password']);
 
 
 if (count($results) > 0){
@@ -24,6 +24,7 @@ else {
     $_SESSION['authenticated'] = false;
     echo "false    ";
     $_SESSION['notGood'][] = "This is not a valid email";
+    $_SESSION['formLogin'] = $_POST;
 
     $extra = 'login.php';
     header("Location: http://$host$uri/$extra");

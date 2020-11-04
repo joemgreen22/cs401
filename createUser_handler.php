@@ -14,10 +14,10 @@ if($matches==null){
     $_SESSION['badUser'][] = "This is not a valid email";
     $_SESSION['authenticated'] = false;
 
-    $extra = 'login.php';
-    header("Location: http://$host$uri/$extra");
-    // header("Location: http://localhost/cs401/login.php");
-    exit();
+    // $extra = 'login.php';
+    // header("Location: http://$host$uri/$extra");
+    // // header("Location: http://localhost/cs401/login.php");
+    // exit();
 }
 
 //valid name
@@ -26,27 +26,36 @@ if(strlen($_POST['nameFirst']) <=0 || strlen($_POST['nameLast']) <=0){
     echo 'invalid name' . '\n';
     $_SESSION['badUser'][] = "This is not a valid name";
     $_SESSION['authenticated'] = false;
-    $extra = 'login.php';
-    header("Location: http://$host$uri/$extra");
-    // header("Location: http://localhost/cs401/login.php");
-    exit();
+    // $extra = 'login.php';
+    // header("Location: http://$host$uri/$extra");
+    // // header("Location: http://localhost/cs401/login.php");
+    // exit();
 }
 
 // email not in use
 echo 'invalid emial2.1';
 $dao = new Dao();
 echo '  moving along  ';
-$results = $dao->userExists($_POST['email'], $_POST['password']);
+// $results = $dao->userExists($_POST['email'], $_POST['password']);
 echo '  moving along...  ';
 if(count($results)> 0){
     echo 'invalid emial2' . '\n';
     $_SESSION['badUser'][] = "This email is already in use";
     $_SESSION['authenticated'] = false;
+    // $extra = 'login.php';
+    // header("Location: http://$host$uri/$extra");
+    // // header("Location: http://localhost/cs401/login.php");
+    // exit();
+}
+
+if(count($_SESSION['badUser']) > 0){
+    $_SESSION['formCreate'] = $_POST;
     $extra = 'login.php';
     header("Location: http://$host$uri/$extra");
     // header("Location: http://localhost/cs401/login.php");
     exit();
 }
+
 // if(count($results)<= 0){
     echo 'valid create' . '\n';
     $dao->createUser($_POST['nameFirst'], $_POST['nameLast'], $_POST['email'], $_POST['password']);
