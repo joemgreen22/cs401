@@ -43,7 +43,7 @@ if(count($results)> 0){
     // header("Location: http://localhost/cs401/login.php");
     exit();
 }
-if(count($results)<= 0){
+// if(count($results)<= 0){
     echo 'valid create' . '\n';
     $dao->createUser($_POST['nameFirst'], $_POST['nameLast'], $_POST['email'], $_POST['password']);
     $_SESSION['authenticated'] = true;
@@ -51,4 +51,4 @@ if(count($results)<= 0){
     header("Location: http://$host$uri/$extra");
     // header("Location: http://localhost/cs401/home.php");
     exit();
-}
+// }
