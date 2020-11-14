@@ -4,10 +4,10 @@ require 'vendor/autoload.php';
 class Dao{
 
     // huroku
-    private $host = "localhost";
-    private $db = "cs401";
-    private $user = "joe";
-    private $pass = "password";
+    private $host = "us-cdbr-east-02.cleardb.com";
+    private $db = "heroku_c13a055430c7240";
+    private $user = "b59d3ac2d34d68";
+    private $pass = "4d1df6ac";
 
     // local host 
     // private $host = "localhost";
