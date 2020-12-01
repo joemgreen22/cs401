@@ -45,13 +45,11 @@ $dao = new Dao();
 $dao->addComment($_POST['comment'],$_POST['name'] );
 $_SESSION['good'][] = "Your review has sucessfully been posted";
 
-echo "made it";
-echo $_POST['ratings'];
 
 // redirect back 
-///$extra = 'contact.php';
-///header("Location: http://$host$uri/$extra");
+$extra = 'contact.php';
+header("Location: http://$host$uri/$extra");
 // header("Location: http://cs401/contact.php");
 
-///exit();
+exit();
 
