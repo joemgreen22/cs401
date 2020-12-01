@@ -4,11 +4,16 @@
 <html>
     <head>
 		<title>Leeper's shooting Emporium </title>
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="styleSchedule.css">
 		<link href="images/logo.png" type="image/gif" rel="shortcut icon" />
 
+
+
     </head>
     <body> 
+    <h2 id="title"> Schedule </h2>
     <div id ="tableDiv">    
     <table class ="schedule">
         <tr>

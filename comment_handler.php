@@ -8,6 +8,10 @@ $_SESSION['good'] = array();
 $host  = $_SERVER['HTTP_HOST'];
 $uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
 
+
+
+
+
 //validation
 if (strlen($_POST['comment']) > 256) {
     $logger->LogInfo("User review too long [{$_POST['comment']}]");
@@ -18,9 +22,9 @@ if (strlen($_POST['comment']) > 256) {
     $_SESSION['bad'][] = "Please enter a Review";
   }
 
-  if (strlen($_POST['name']) > 256) {
+  if (strlen($_POST['name']) > 32) {
     $logger->LogInfo("User name too long [{$_POST['name']}]");
-    $_SESSION['bad'][] = "Your name can only be 256 Characters.";
+    $_SESSION['bad'][] = "Your name can only be 32 Characters.";
   }
   if (strlen($_POST['name']) == 0) {
     $logger->LogInfo("no name [{$_POST['name']}]");
@@ -38,15 +42,16 @@ if (strlen($_POST['comment']) > 256) {
 
 
 $dao = new Dao();
-$dao->addComment($_POST['comment']);
+$dao->addComment($_POST['comment'],$_POST['name'] );
 $_SESSION['good'][] = "Your review has sucessfully been posted";
 
-
+echo "made it";
+echo $_POST['ratings'];
 
 // redirect back 
-$extra = 'contact.php';
-header("Location: http://$host$uri/$extra");
+///$extra = 'contact.php';
+///header("Location: http://$host$uri/$extra");
 // header("Location: http://cs401/contact.php");
 
-exit();
+///exit();
 

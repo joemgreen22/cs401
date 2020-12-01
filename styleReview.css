@@ -56,15 +56,18 @@ td{
 table{
     width: 98%;
 }
-#reviewCol{
+/* #reviewCol{
  width: 80%;   
-}
+} */
 .dateCol{
     font-size: 12;
 }
 
 .reviewCol {
     font-size: 16;
+}
+.nameCol{
+    font-size: 14;
 }
 .delete{
     text-align:center;

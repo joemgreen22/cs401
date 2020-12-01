@@ -50,7 +50,7 @@ if (isset($_SESSION['form'])){
             }
           }
 
-          renderTable("comments.txt");
+          renderTable();
         ?>
       </div>
 

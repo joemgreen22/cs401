@@ -4,16 +4,16 @@ require 'vendor/autoload.php';
 class Dao{
 
     // huroku
-    // private $host = "us-cdbr-east-02.cleardb.com";
-    // private $db = "heroku_c13a055430c7240";
-    // private $user = "b59d3ac2d34d68";
-    // private $pass = "4d1df6ac";
+    private $host = "us-cdbr-east-02.cleardb.com";
+    private $db = "heroku_c13a055430c7240";
+    private $user = "b59d3ac2d34d68";
+    private $pass = "4d1df6ac";
 
     // local host 
-    private $host = "localhost";
-    private $db = "cs401";
-    private $user = "joe";
-    private $pass = "password";
+    // private $host = "localhost";
+    // private $db = "cs401";
+    // private $user = "joe";
+    // private $pass = "password";
 
     private $logger;
 
@@ -37,15 +37,16 @@ class Dao{
 
     public function getComments() {
         $conn = $this->getConnection();
-        return $conn->query("select commentID, comment, dateEntered from comment order by dateEntered desc;", PDO::FETCH_ASSOC);
+        return $conn->query("select commentID, name, comment, dateEntered from comment order by dateEntered desc;", PDO::FETCH_ASSOC);
       }
 
-    public function addComment($comment){
+    public function addComment($comment, $name){
         $this->logger->LogInfo("adding a comment [{$comment}]");
         $conn = $this->getConnection();
-        $saveQuery = "insert into comment (comment, userID) values (:comment, 1)";
+        $saveQuery = "insert into comment (name, comment) values (:name, :comment)";
         $q = $conn->prepare($saveQuery);
         $q->bindParam(":comment", $comment);
+        $q->bindParam(":name", $name);
         $q->execute();
     }
 
@@ -64,31 +65,7 @@ class Dao{
         $q->bindParam(":email", $email);
         $q->execute();
         return $q->fetchAll();
-
-
-
-
-
-        // $conn = $this->getConnection();
-        // echo $email;
-        // return $conn->query("select * FROM user WHERE email = '$email';");
-        // $saveQuery = "select * FROM user WHERE email = :email;";
-        // $q = $conn->prepare($saveQuery);
-        // $q->bindParam(":email", $email);
-
-        // return $q->execute();
-
-
-        // $conn = $this->getConnection();
-        // $query_user = $conn->prepare("SELECT * FROM user WHERE email = {$email};");
-        // $query_user->bindParam(":credential", $credential);
-        // $query_user->execute();
-        // return $query_user->fetchAll(PDO::FETCH_ASSOC);
-
-        // echo print_r($result); // debug 
-        // return $result;
       }
-
 
 
       public function createUser ($nameFirst, $nameLast, $email, $password, $salt){

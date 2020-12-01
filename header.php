@@ -55,7 +55,7 @@
                 <li> <a <?php if($pageName == "home"){echo "class='active';";}?> href="home.php">Home</a></li>
                 <li> <a <?php if($pageName == "programs"){echo "class='active';";}?> href="programs.php">Programs</a></li>
                 <li> <a <?php if($pageName == "schedule"){echo "class='active';";}?> href="schedule.php">Schedule</a></li>
-                <li> <a <?php if($pageName == "store"){echo "class='active';";}?> href="store.php">Store</a></li>
+                <!-- <li> <a <?php if($pageName == "store"){echo "class='active';";}?> href="store.php">Store</a></li> -->
                 <li> <a <?php if($pageName == "about"){echo "class='active';";}?> href="about.php">About</a></li>
                 <li> <a <?php if($pageName == "contact"){echo "class='active';";}?> href="contact.php">Reviews</a></li>
             </ul>

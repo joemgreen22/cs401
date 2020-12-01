@@ -47,9 +47,9 @@ if (count($results) > 0){
 }
 
 
+echo "fail";
 
 
-else {
     $_SESSION['authenticated'] = false;
     echo "false    ";
     $_SESSION['notGood'][] = "Invalid email or password";
@@ -58,4 +58,4 @@ else {
     $extra = 'login.php';
     header("Location: http://$host$uri/$extra");
     exit();
-}
+

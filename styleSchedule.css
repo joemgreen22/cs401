@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -19,4 +21,10 @@ th, td{
 .schedule {
     margin-left:auto; 
     margin-right:auto;
+}
+
+#title{
+    text-align: center;
+    font-family: 'Major Mono Display', monospace;
+    font-size: 40;
 }

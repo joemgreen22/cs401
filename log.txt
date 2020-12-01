@@ -511,3 +511,244 @@
 1606384963 - DEBUG --> getting a connection 
 1606386396 - DEBUG --> getting a connection 
 1606386403 - DEBUG --> getting a connection 
+1606805476 - DEBUG --> getting a connection 
+1606805476 - DEBUG --> getting a connection 
+1606805572 - DEBUG --> getting a connection 
+1606805572 - DEBUG --> getting a connection 
+1606805575 - DEBUG --> getting a connection 
+1606805575 - DEBUG --> getting a connection 
+1606805575 - DEBUG --> getting a connection 
+1606805575 - DEBUG --> getting a connection 
+1606805605 - DEBUG --> getting a connection 
+1606805605 - DEBUG --> getting a connection 
+1606805608 - DEBUG --> getting a connection 
+1606805608 - DEBUG --> getting a connection 
+1606805715 - DEBUG --> getting a connection 
+1606805715 - DEBUG --> getting a connection 
+1606805719 - DEBUG --> getting a connection 
+1606805729 - DEBUG --> getting a connection 
+1606805729 - DEBUG --> getting a connection 
+1606805747 - DEBUG --> getting a connection 
+1606805755 - DEBUG --> getting a connection 
+1606805772 - DEBUG --> getting a connection 
+1606805772 - DEBUG --> getting a connection 
+1606805774 - DEBUG --> getting a connection 
+1606806029 - INFO  --> adding a comment [a new comment] 
+1606806029 - DEBUG --> getting a connection 
+1606806029 - DEBUG --> getting a connection 
+1606806052 - DEBUG --> getting a connection 
+1606806062 - DEBUG --> getting a connection 
+1606806063 - INFO  --> deleting a comment [18] 
+1606806063 - DEBUG --> getting a connection 
+1606806084 - DEBUG --> getting a connection 
+1606806648 - INFO  --> adding a comment [a new comment] 
+1606806648 - DEBUG --> getting a connection 
+1606806648 - DEBUG --> getting a connection 
+1606807407 - DEBUG --> getting a connection 
+1606807508 - DEBUG --> getting a connection 
+1606807544 - DEBUG --> getting a connection 
+1606807556 - DEBUG --> getting a connection 
+1606807620 - INFO  --> User name too long [a really really really long name that is too long to fit] 
+1606807620 - DEBUG --> getting a connection 
+1606807627 - INFO  --> User name too long [a really really really long name that is too l] 
+1606807627 - DEBUG --> getting a connection 
+1606807644 - INFO  --> User name too long [a really really really long name ] 
+1606807644 - DEBUG --> getting a connection 
+1606807649 - INFO  --> adding a comment [a shot comment] 
+1606807649 - DEBUG --> getting a connection 
+1606807649 - DEBUG --> getting a connection 
+1606807857 - DEBUG --> getting a connection 
+1606807873 - INFO  --> User review too long [asfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasd] 
+1606807873 - DEBUG --> getting a connection 
+1606807880 - INFO  --> User review too long [asfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfa] 
+1606807880 - DEBUG --> getting a connection 
+1606807886 - INFO  --> User review too long [asfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfa] 
+1606807886 - DEBUG --> getting a connection 
+1606807892 - INFO  --> User review too long [asfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf ] 
+1606807892 - DEBUG --> getting a connection 
+1606807897 - INFO  --> User review too long [asfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807897 - DEBUG --> getting a connection 
+1606807900 - INFO  --> User review too long [asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807900 - DEBUG --> getting a connection 
+1606807902 - INFO  --> User review too long [sdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807902 - DEBUG --> getting a connection 
+1606807903 - INFO  --> User review too long [asdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807903 - DEBUG --> getting a connection 
+1606807905 - INFO  --> User review too long [dfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807905 - DEBUG --> getting a connection 
+1606807906 - INFO  --> User review too long [sdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807906 - DEBUG --> getting a connection 
+1606807907 - INFO  --> User review too long [f asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807907 - DEBUG --> getting a connection 
+1606807908 - INFO  --> User review too long [fasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807908 - DEBUG --> getting a connection 
+1606807909 - INFO  --> User review too long [asdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807909 - DEBUG --> getting a connection 
+1606807910 - INFO  --> User review too long [sdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807911 - DEBUG --> getting a connection 
+1606807912 - INFO  --> User review too long [asdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807912 - DEBUG --> getting a connection 
+1606807913 - INFO  --> User review too long [fasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807913 - DEBUG --> getting a connection 
+1606807915 - INFO  --> User review too long [f asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807915 - DEBUG --> getting a connection 
+1606807916 - INFO  --> User review too long [sdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807916 - DEBUG --> getting a connection 
+1606807918 - INFO  --> User review too long [fasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807918 - DEBUG --> getting a connection 
+1606807919 - INFO  --> User review too long [asdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807919 - DEBUG --> getting a connection 
+1606807920 - INFO  --> User review too long [dfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807920 - DEBUG --> getting a connection 
+1606807922 - INFO  --> User review too long [sfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807922 - DEBUG --> getting a connection 
+1606807923 - INFO  --> User review too long [sdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807923 - DEBUG --> getting a connection 
+1606807924 - INFO  --> User review too long [sdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807924 - DEBUG --> getting a connection 
+1606807925 - INFO  --> User review too long [sdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807925 - DEBUG --> getting a connection 
+1606807926 - INFO  --> User review too long [dfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807926 - DEBUG --> getting a connection 
+1606807928 - INFO  --> User review too long [sdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807928 - DEBUG --> getting a connection 
+1606807930 - INFO  --> User review too long [sdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807930 - DEBUG --> getting a connection 
+1606807931 - INFO  --> User review too long [sdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807931 - DEBUG --> getting a connection 
+1606807933 - INFO  --> User review too long [sdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807933 - DEBUG --> getting a connection 
+1606807935 - INFO  --> User review too long [sfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807935 - DEBUG --> getting a connection 
+1606807939 - INFO  --> User review too long [df asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807939 - DEBUG --> getting a connection 
+1606807941 - INFO  --> User review too long [dfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807941 - DEBUG --> getting a connection 
+1606807942 - INFO  --> User review too long [sdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807942 - DEBUG --> getting a connection 
+1606807945 - INFO  --> User review too long [sdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807945 - DEBUG --> getting a connection 
+1606807947 - INFO  --> User review too long [sfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807947 - DEBUG --> getting a connection 
+1606807948 - INFO  --> User review too long [asdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807948 - DEBUG --> getting a connection 
+1606807950 - INFO  --> User review too long [ asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807950 - DEBUG --> getting a connection 
+1606807952 - INFO  --> User review too long [dfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807952 - DEBUG --> getting a connection 
+1606807954 - INFO  --> User review too long [dfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807954 - DEBUG --> getting a connection 
+1606807956 - INFO  --> User review too long [dfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807956 - DEBUG --> getting a connection 
+1606807960 - INFO  --> User review too long [fasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807960 - DEBUG --> getting a connection 
+1606807966 - INFO  --> adding a comment [sdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606807966 - DEBUG --> getting a connection 
+1606807966 - DEBUG --> getting a connection 
+1606808030 - DEBUG --> getting a connection 
+1606809033 - DEBUG --> getting a connection 
+1606809051 - DEBUG --> getting a connection 
+1606809056 - DEBUG --> getting a connection 
+1606809182 - DEBUG --> getting a connection 
+1606809788 - DEBUG --> getting a connection 
+1606809791 - INFO  --> User review too long [fasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606809791 - DEBUG --> getting a connection 
+1606809798 - INFO  --> adding a comment [kjhg ] 
+1606809798 - DEBUG --> getting a connection 
+1606809798 - DEBUG --> getting a connection 
+1606810171 - DEBUG --> getting a connection 
+1606810244 - DEBUG --> getting a connection 
+1606810321 - DEBUG --> getting a connection 
+1606810468 - DEBUG --> getting a connection 
+1606810943 - DEBUG --> getting a connection 
+1606810960 - DEBUG --> getting a connection 
+1606811013 - DEBUG --> getting a connection 
+1606811703 - DEBUG --> getting a connection 
+1606811712 - DEBUG --> getting a connection 
+1606811771 - DEBUG --> getting a connection 
+1606811774 - INFO  --> User review too long [fasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606811774 - DEBUG --> getting a connection 
+1606811781 - INFO  --> adding a comment [fgh] 
+1606811781 - DEBUG --> getting a connection 
+1606811795 - INFO  --> adding a comment [fgh] 
+1606811795 - DEBUG --> getting a connection 
+1606812306 - DEBUG --> getting a connection 
+1606812312 - DEBUG --> getting a connection 
+1606812330 - DEBUG --> getting a connection 
+1606812332 - DEBUG --> getting a connection 
+1606812333 - DEBUG --> getting a connection 
+1606812334 - DEBUG --> getting a connection 
+1606812337 - DEBUG --> getting a connection 
+1606812405 - DEBUG --> getting a connection 
+1606812419 - DEBUG --> getting a connection 
+1606812436 - DEBUG --> getting a connection 
+1606812441 - INFO  --> User review too long [fasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606812441 - DEBUG --> getting a connection 
+1606812442 - INFO  --> User review too long [fasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf asdfasdfasdfasfaasdf as] 
+1606812442 - DEBUG --> getting a connection 
+1606812474 - DEBUG --> getting a connection 
+1606812479 - INFO  --> adding a comment [kjhg] 
+1606812479 - DEBUG --> getting a connection 
+1606812480 - INFO  --> adding a comment [kjhg] 
+1606812480 - DEBUG --> getting a connection 
+1606812481 - INFO  --> adding a comment [kjhg] 
+1606812481 - DEBUG --> getting a connection 
+1606812482 - INFO  --> adding a comment [kjhg] 
+1606812482 - DEBUG --> getting a connection 
+1606812482 - INFO  --> adding a comment [kjhg] 
+1606812482 - DEBUG --> getting a connection 
+1606812484 - INFO  --> adding a comment [kjhg] 
+1606812484 - DEBUG --> getting a connection 
+1606812494 - INFO  --> adding a comment [kjhg] 
+1606812494 - DEBUG --> getting a connection 
+1606812495 - INFO  --> adding a comment [kjhg] 
+1606812495 - DEBUG --> getting a connection 
+1606812496 - INFO  --> adding a comment [kjhg] 
+1606812496 - DEBUG --> getting a connection 
+1606812771 - DEBUG --> getting a connection 
+1606812778 - DEBUG --> getting a connection 
+1606812778 - INFO  --> deleting a comment [33] 
+1606812778 - DEBUG --> getting a connection 
+1606812783 - DEBUG --> getting a connection 
+1606812783 - INFO  --> deleting a comment [32] 
+1606812783 - DEBUG --> getting a connection 
+1606812785 - DEBUG --> getting a connection 
+1606812785 - INFO  --> deleting a comment [1] 
+1606812785 - DEBUG --> getting a connection 
+1606812786 - DEBUG --> getting a connection 
+1606812786 - INFO  --> deleting a comment [24] 
+1606812786 - DEBUG --> getting a connection 
+1606812790 - DEBUG --> getting a connection 
+1606812790 - INFO  --> deleting a comment [19] 
+1606812790 - DEBUG --> getting a connection 
+1606812791 - DEBUG --> getting a connection 
+1606812791 - INFO  --> deleting a comment [17] 
+1606812791 - DEBUG --> getting a connection 
+1606812791 - DEBUG --> getting a connection 
+1606812791 - INFO  --> deleting a comment [13] 
+1606812791 - DEBUG --> getting a connection 
+1606812792 - DEBUG --> getting a connection 
+1606812792 - INFO  --> deleting a comment [11] 
+1606812792 - DEBUG --> getting a connection 
+1606812794 - DEBUG --> getting a connection 
+1606812794 - INFO  --> deleting a comment [30] 
+1606812794 - DEBUG --> getting a connection 
+1606812795 - DEBUG --> getting a connection 
+1606812795 - INFO  --> deleting a comment [28] 
+1606812795 - DEBUG --> getting a connection 
+1606812795 - DEBUG --> getting a connection 
+1606812795 - INFO  --> deleting a comment [29] 
+1606812795 - DEBUG --> getting a connection 
+1606812796 - DEBUG --> getting a connection 
+1606812796 - INFO  --> deleting a comment [27] 
+1606812796 - DEBUG --> getting a connection 
+1606812797 - DEBUG --> getting a connection 
+1606812797 - INFO  --> deleting a comment [31] 
+1606812797 - DEBUG --> getting a connection 
+1606812797 - DEBUG --> getting a connection 
+1606812797 - INFO  --> deleting a comment [26] 
+1606812797 - DEBUG --> getting a connection 
+1606812798 - DEBUG --> getting a connection 
+1606812798 - INFO  --> deleting a comment [25] 
+1606812798 - DEBUG --> getting a connection 
+1606812809 - DEBUG --> getting a connection 

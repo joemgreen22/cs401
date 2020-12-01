@@ -41,7 +41,7 @@ if (isset($_SESSION['formCreate'])){
     <form method="POST" action="login_handler.php">
       <!-- <div>Email: <input value="<?php echo $emailTmp;?>" type="text" name="email"/></div> -->
       <div> <label for="logEmail"> Email: </label> <input id= "logEmail" value="<?php echo $emailTmp;?>" type="text" name="email"/></div>
-      <div><label for ="logpassword"> Password:</label> <input id= "logpassword" value="<?php echo $passTmp;?>" emailTmptype="password" name="password"/></div>
+      <div><label for ="logpassword"> Password:</label> <input id= "logpassword" value="<?php echo $passTmp;?>" type="password" name="password"/></div>
       <div><input type="submit" value="Login"></div>
     </form>
     <?php
