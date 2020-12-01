@@ -1,8 +1,9 @@
 body{
-    /* margin: 0;
-    padding: 0; */
+    margin: 0;
+    padding: 0;
     font-family: 'Arial', serif;
     background-color: rgb(255, 248, 211);
+
     
 }
 
@@ -10,17 +11,17 @@ body{
     display: flex;
     justify-content: space-between; 
     width: 100%;
+    background-color: #999966;
 }
 .infoleft{
-    background-color: #999966;
     padding: 10 10 10 10;
     margin: 0
 }
 .faceImg{
     max-width: 32;
     position: relative;
+    
     top: -4;
-
 }
 .instaImg{
     max-width: 40;
@@ -31,21 +32,51 @@ body{
     font-weight: bold;
 }
 .infoRight {
-    /* float: right; */
     padding: 10 10 0 10;
+}
+
+.name{   
+    padding-top: 10;
+    text-align: center;
+    background-color: #999966;    
+    font-family: Courier;
+    font-size: 45;
+    font-weight: bold;
+}
+.name > p{
+    margin: 0
 }
 /* .infoRight > p{
     margin: 0;
     font-weight: bold;
 } */
-.infoRight > p > a {
+/* .infoRight > p > a {
     text-decoration: none;
     color: #000000;
 }
 .infoRight > p > a:hover {
     color: #606060;
+} */
+
+/* ^^ top info ^^ */
+
+
+.logo{
+    padding-top: 55;
+    padding-left: 10;
+    width: 115;
+    position: absolute;
 }
 
+
+/* vv info bottom vv */
+
+#navDiv{
+    display: flex;
+    justify-content: space-between; 
+    width: 100%;
+    background-color: #999966;
+}
 .nav {
     background-color: #999966;
     list-style: none;
@@ -57,17 +88,23 @@ body{
     float: right;
 }
 #login{
-    padding-left: 8;
-    padding-top: 3;
+    margin-left: 140;
+    margin-top: 4;
+    margin-bottom: 5;
+    padding-top: 4;
+    padding-left: 3;
+    padding-right: 3;
+
+    background-color:  rgb(255, 248, 211);
     text-decoration: none;
     color: #000000;
-    text-decoration: underline;
-    float: left;
+    border: solid black 1px;
+    /* border-bottom: none; */
+    border-radius:0.5em;
 }
 a{
     text-decoration: none;
     color: #000000;
-    text-decoration: underline;
     font-family: Courier;
     font-weight: bold;
     font-size: large;
@@ -75,6 +112,7 @@ a{
 a:hover {
     color: #606060;
 }
+
 
 .nav > li {
     display: inline-block;
@@ -90,57 +128,32 @@ a:hover {
 .active{
     font-weight: bold;
     background-color:  rgb(255, 248, 211);
-    padding: 5 5 11 5;
-    border: 1px solid black;
+    padding: 5 5 10 5;
+    border: solid black 1px;
+    /* border-radius:0.5em; */
     border-bottom: none;
 }
 
-.logo{
-    padding-top: 10;
-    padding-left: 10;
-    background-color: #999966;
-    width: 140;
-    float: left;
-}
-.logo > a > img{
-    width: 100%
-}
-.name{   
-    padding-top: 10;
-    text-align: center;
-    background-color: #999966;    
-    font-family: Courier;
-    font-size: 50;
-    font-weight: bold;
-}
-.name > p{
-    margin: 0
-}
+
+
 
 .header{
-    background-color: black;    
-    /* position: fixed; */
+    background-color: #999966;    
+    position: fixed;
+    z-index: 10;
     width: 100%;
-    margin-bottom: 90;
-    top: 0;
 }
 .emptyDiv{
-    top: 0;
-    height: 225;
+    height: 160;
 }
 
 
 
-/* header.php above */
+
+
+
 
 /* footer bellow */
-
-.footerInfo > p{
-    margin: 0;
-    font-weight: bold;
-    background-color: #999966;
-    float: right;
-}
 
 .listSponsor > h3{
     font-family: Courier;
@@ -179,11 +192,38 @@ a:hover {
 .vortexLogo {
     max-width: 45;
 }
+
+#endInfo{
+    display: flex;
+    justify-content: space-between; 
+    width: 100%;
+    background-color: #999966;
+}
+#infoleftFoot{
+    margin: 0;
+    margin-left: 5;
+}
+#infoleftFoot> p{
+    margin: 0;
+    font-weight: bold;
+}
+#infoRightFoot{
+    margin: 0;
+    height: 40;
+    padding-right: 10;
+}
+#infoRightFoot>p{
+    margin: 0;
+}
+
 .footer{
     position: absolute;
     width: 100%;
     bottom: 0;
-
+    margin-top: 100;
+    /* min-height: 400; */
+    margin-bottom: 0;
+    padding: 0;
 }
 
 body{
@@ -193,5 +233,6 @@ body{
 
 #content{
     padding-bottom: 200;
+    margin-bottom: 0;
     
 }

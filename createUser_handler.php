@@ -33,12 +33,14 @@ if(strlen($_POST['nameFirst']) <=0 || strlen($_POST['nameLast']) <=0){
 }
 
 // email not in use
-echo 'invalid emial2.1';
+
+
+
 $dao = new Dao();
-echo '  moving along  ';
-$results = $dao->userExists($_POST['email'], $_POST['password']);
-echo '  moving along...  ';
-if(count($results)> 0){
+$results = $dao->userExists($_POST['email']);
+
+
+if(count($results) > 0){
     echo 'invalid emial2' . '\n';
     $_SESSION['badUser'][] = "This email is already in use";
     $_SESSION['authenticated'] = false;
@@ -51,14 +53,30 @@ if(count($results)> 0){
 if(count($_SESSION['badUser']) > 0){
     $_SESSION['formCreate'] = $_POST;
     $extra = 'login.php';
+    echo "--done";
     header("Location: http://$host$uri/$extra");
     // header("Location: http://localhost/cs401/login.php");
     exit();
 }
 
+
+// procedes if no bad falgs
+// salt and hash password
+function createSalt() {
+    $text = md5(uniqid(rand(), TRUE));
+    return substr($text, 0, 3);
+}
+
+$salt = createSalt();
+$password = $_POST['password'];
+$saltyhash = hash('sha256', $salt . $password);
+echo $salt . "--" . "\n";
+echo $password . "--" ."\n";
+echo $saltyhash . "--" ."\n";
+
 // if(count($results)<= 0){
     echo 'valid create' . '\n';
-    $dao->createUser($_POST['nameFirst'], $_POST['nameLast'], $_POST['email'], $_POST['password']);
+     $dao->createUser($_POST['nameFirst'], $_POST['nameLast'], $_POST['email'], $saltyhash, $salt);
     $_SESSION['authenticated'] = true;
     $extra = 'home.php';
     header("Location: http://$host$uri/$extra");

@@ -3,40 +3,42 @@
 <html>
 	<head>
 		<title>Leeper's shooting Emporium </title>
-		<link rel="stylesheet" type="text/css" href="styleHeadFoot.css">
+		<link rel="stylesheet" type="text/css" href="styleHead.css">
 		<link href="images/logo.png" type="image/gif" rel="shortcut icon" />
 
 	</head>
 
 	<body>
         <div class ="header">
-            <div class ="infoRight">
-                
+            <div id ="topInfo">
+
+            <div class= "infoleft">
+                <p> 208.123.6789</p>
+                <p>theEmporium@gmail.com</p>	
+            </div>      <!-- infoleft -->
+            
+            <div class = "name"> 
+                <p>Leeper's Shooting</p>
+                <p>Emporium</p>
+            </div> <!-- name -->
+
+            <div class ="infoRight">     
                 <p> 
-                    
-                <!-- <div id = "login"> <a href="login.php">Login</a> </div> -->
                     <a href="https://www.instagram.com/3gunleepa/">
                     <img class="instaImg" src="images/insta2.png" />
                 </a>
                 <a href="https://www.facebook.com/cody.leeper.7">
                     <img class="faceImg" src="images/facebook.png" />
                 </a></p>
-            </div>
+            </div>      <!-- infoRight -->
 
-            <div class= "infoleft">
-                <p> 208.123.6789</p>
-                <p>theEmporium@gmail.com</p>	
-            </div>
+
+            <img class = "logo" src="images/logo.png" /> 
+            </div> <!-- topInfo -->
+
             
-             <img class = "logo" src="images/logo.png" /> 
-         
-            
-            <div class = "name"> 
-                <p>Leeper's Shooting</p>
-                <p>Emporium</p>
-            </div>
-            
-            <div class= "navDiv">
+
+            <div id= "navDiv">
             <div id = "login"> 
                 <?php
                     if (isset($_SESSION['authenticated']) && $_SESSION['authenticated'] == true ) {    
@@ -47,7 +49,8 @@
                     }
                 ?>
         
-            </a> </div>
+            </a> </div> <!-- login -->
+
             <ul class= "nav">
                 <li> <a <?php if($pageName == "home"){echo "class='active';";}?> href="home.php">Home</a></li>
                 <li> <a <?php if($pageName == "programs"){echo "class='active';";}?> href="programs.php">Programs</a></li>
@@ -55,9 +58,10 @@
                 <li> <a <?php if($pageName == "store"){echo "class='active';";}?> href="store.php">Store</a></li>
                 <li> <a <?php if($pageName == "about"){echo "class='active';";}?> href="about.php">About</a></li>
                 <li> <a <?php if($pageName == "contact"){echo "class='active';";}?> href="contact.php">Reviews</a></li>
-            </div>   
             </ul>
-        </div>
+            </div>   <!-- nav -->
+            
+        </div> <!-- header -->
         <div class ="emptyDiv"> </div>
     <div id= "content">
 

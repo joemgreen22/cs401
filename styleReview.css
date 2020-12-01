@@ -45,11 +45,13 @@ td{
     border: 1px solid green;
     border-radius:0.5em;
     padding: 5;
+    margin: 5;
 }
 .bad{
     border: 1px solid red;
     border-radius:0.5em;
     padding: 5;
+    margin: 5;
 }
 table{
     width: 98%;
@@ -66,4 +68,13 @@ table{
 }
 .delete{
     text-align:center;
+}
+
+.close{
+    font-weight: bold;
+    padding-left: 15;
+}
+.close:hover{
+    text-decoration: underline;
+    cursor: pointer;
 }

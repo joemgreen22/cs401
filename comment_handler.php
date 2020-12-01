@@ -10,12 +10,21 @@ $uri   = rtrim(dirname($_SERVER['PHP_SELF']), '/\\');
 
 //validation
 if (strlen($_POST['comment']) > 256) {
-    $logger->LogInfo("User input too long [{$_POST['comment']}]");
+    $logger->LogInfo("User review too long [{$_POST['comment']}]");
     $_SESSION['bad'][] = "Your review can only be 256 Characters.";
   }
 
   if (strlen($_POST['comment']) == 0) {
     $_SESSION['bad'][] = "Please enter a Review";
+  }
+
+  if (strlen($_POST['name']) > 256) {
+    $logger->LogInfo("User name too long [{$_POST['name']}]");
+    $_SESSION['bad'][] = "Your name can only be 256 Characters.";
+  }
+  if (strlen($_POST['name']) == 0) {
+    $logger->LogInfo("no name [{$_POST['name']}]");
+    $_SESSION['bad'][] = "Please enter a name.";
   }
 
   if (count($_SESSION['bad']) > 0) {

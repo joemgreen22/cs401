@@ -69,8 +69,8 @@
             <img class ="contactImg" src = "https://www.nicepng.com/png/full/125-1255384_banner-image-contact-us-graphic-design.png"/>
 
             <div class ="contactContent"> 
-                <a <?php if($pageName == "contact"){echo "class='active';";}?> href="contact.php">Contact Us:</a> 
-                <div> Our team can answer any of your questions. If you would like to get in contact with our managment team please click  
+                <a <?php if($pageName == "contact"){echo "class='active';";}?> href="contact.php">Reviews:</a> 
+                <div> Take a look to see what our past clients thought about us and leave us a review   
                 <a id="contactHereLink"<?php if($pageName == "contact"){echo "class='active';";}?> href="contact.php">here.</a>
 
                 </div>

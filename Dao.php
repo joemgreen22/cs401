@@ -4,16 +4,16 @@ require 'vendor/autoload.php';
 class Dao{
 
     // huroku
-    private $host = "us-cdbr-east-02.cleardb.com";
-    private $db = "heroku_c13a055430c7240";
-    private $user = "b59d3ac2d34d68";
-    private $pass = "4d1df6ac";
+    // private $host = "us-cdbr-east-02.cleardb.com";
+    // private $db = "heroku_c13a055430c7240";
+    // private $user = "b59d3ac2d34d68";
+    // private $pass = "4d1df6ac";
 
     // local host 
-    // private $host = "localhost";
-    // private $db = "cs401";
-    // private $user = "joe";
-    // private $pass = "password";
+    private $host = "localhost";
+    private $db = "cs401";
+    private $user = "joe";
+    private $pass = "password";
 
     private $logger;
 
@@ -57,28 +57,75 @@ class Dao{
         $q->bindParam(":commentID", $id);
         $q->execute();
       }
-      public function userExists ($email, $password) {
+      public function userExists ($email) {
         $conn = $this->getConnection();
-        $query_user = $conn->prepare("SELECT * FROM user WHERE email = {$email};");
-        $query_user->bindParam(":credential", $credential);
-        $query_user->execute();
-        return $query_user->fetchAll(PDO::FETCH_ASSOC);
+        $userQuery = "select * FROM user WHERE email = :email";
+        $q = $conn->prepare($userQuery);
+        $q->bindParam(":email", $email);
+        $q->execute();
+        return $q->fetchAll();
+
+
+
+
+
+        // $conn = $this->getConnection();
+        // echo $email;
+        // return $conn->query("select * FROM user WHERE email = '$email';");
+        // $saveQuery = "select * FROM user WHERE email = :email;";
+        // $q = $conn->prepare($saveQuery);
+        // $q->bindParam(":email", $email);
+
+        // return $q->execute();
+
+
+        // $conn = $this->getConnection();
+        // $query_user = $conn->prepare("SELECT * FROM user WHERE email = {$email};");
+        // $query_user->bindParam(":credential", $credential);
+        // $query_user->execute();
+        // return $query_user->fetchAll(PDO::FETCH_ASSOC);
+
         // echo print_r($result); // debug 
         // return $result;
       }
 
 
 
-      public function createUser ($nameFirst, $nameLast, $email, $password){
+      public function createUser ($nameFirst, $nameLast, $email, $password, $salt){
         $conn = $this->getConnection();
-        $createQuery = "insert into user (nameFirst, nameLast, email, password, access) values(:nameFirst, :nameLast, :email, :password, 0)";
+        $createQuery = "insert into user (nameFirst, nameLast, email, password, salt, access) values(:nameFirst, :nameLast, :email, :password, :salt, 0)";
         $q = $conn->prepare($createQuery);
         $q->bindParam(":nameFirst", $nameFirst);
         $q->bindParam(":nameLast", $nameLast);
         $q->bindParam(":email", $email);
         $q->bindParam(":password", $password);
+        $q->bindParam(":salt", $salt);
         $q->execute();
       }
+
+      // public function addSalt($salt, $email){
+      //   $conn = $this->getConnection();
+      //   $saltQuery = "update user set salt = 'ab12' where email = 'email';";
+      //   $q = $conn->prepare($saveQuery);
+      //   $q->bindParam(":salt", $salt);
+      //   $q->execute();
+      // }
+
+      public function getPassSalt ($email) {
+        $conn = $this->getConnection();
+        $saltQuery = "select password, salt FROM user WHERE email = :email";
+        $q = $conn->prepare($saltQuery);
+        $q->bindParam(":email", $email);
+        $q->execute();
+        return $q->fetchAll();
+      }
+
+      public function getPass ($email) {
+        $conn = $this->getConnection();
+        echo $email;
+        return $conn->query("select password FROM user WHERE email = '$email';");
+      }
+      
 }
 
 

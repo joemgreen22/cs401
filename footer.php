@@ -25,9 +25,14 @@
                 </a></li>
             </ul>
             
-                    
-            <div class ="infoRight">
-                <!-- <a href="#">Login</a> -->
+            <div id = "endInfo">    
+            <div id= "infoleftFoot">
+                <p> 208.123.6789</p>
+                <p>theEmporium@gmail.com</p>	
+            </div>
+
+            <div id ="infoRightFoot">
+
                 <p> <a href="https://www.instagram.com/3gunleepa/">
                     <img class="instaImg" src="images/insta2.png" />
                 </a>
@@ -36,11 +41,9 @@
                 </a></p>
             </div>
 
-            <div class= "infoleft">
-                <p> 208.123.6789</p>
-                <p>theEmporium@gmail.com</p>	
-            </div>
-        </div>
-    </body>
+
+            </div>  <!-- endInfo -->
+        </div> <!-- footer -->
+    <!-- </body> -->
 </html>
 

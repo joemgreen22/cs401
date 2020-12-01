@@ -1,6 +1,7 @@
 body{
     background-color:  rgb(255, 248, 211);
-
+    margin-bottom: 0;
+    /* clear: both; */
 }
 
 .logHead{
@@ -19,7 +20,7 @@ body{
     background-color: #999966;
     border: solid black 2px;
     border-radius:0.5em;
-    float: left;
+    /* float: left; */
     width: 45%;
     height: 400;
 }
@@ -28,7 +29,7 @@ body{
     background-color: #999966;
     border: solid black 2px;
     border-radius:0.5em;
-    float: right;
+    /* float: right; */
     width: 45%;
     height: 400;
 }
@@ -39,9 +40,12 @@ a{
     text-decoration: underline;
 
 }
-div{
+.create > span, .loginClass > span{
+    margin: 5;
+}
 
-    padding: 5;
+.create, .loginClass, .logHead{
+    margin: 5;
 }
 
 
@@ -57,4 +61,10 @@ div{
     border-radius:0.5em;
     padding: 5;
     margin-bottom: 50;
+}
+
+#logthings{
+    min-height: 500;
+    display: flex;
+    justify-content: space-between; 
 }
