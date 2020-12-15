@@ -761,3 +761,12 @@
 1607385668 - INFO  --> adding a comment [a new comment] 
 1607385668 - DEBUG --> getting a connection 
 1607385668 - DEBUG --> getting a connection 
+1607389123 - DEBUG --> getting a connection 
+1607389123 - DEBUG --> getting a connection 
+1607389134 - DEBUG --> getting a connection 
+1607389138 - INFO  --> adding a comment [a new comment] 
+1607389138 - DEBUG --> getting a connection 
+1607389139 - DEBUG --> getting a connection 
+1607389143 - DEBUG --> getting a connection 
+1607389144 - INFO  --> deleting a comment [31] 
+1607389144 - DEBUG --> getting a connection 
